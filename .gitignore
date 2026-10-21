@@ -1,0 +1,6 @@
+config.json 
+security_events.log 
+stealth_launcher.vbs 
+__pycache__/ 
+*.log 
+*.pyc 
